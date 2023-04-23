@@ -1,0 +1,16 @@
+= roboquant-jupyter-js
+
+JavaScript file(s) for roboquant Jupyter notebooks. This file is used in roboquant notebooks using jsdelivr CDN. For example:
+
+----
+https://cdn.jsdelivr.net/gh/neurallayer/roboquant-jupyter-js@$commit/echarts.min.js?version=$commit
+----
+
+== More about roboquant
+
+image:https://roboquant.org/img/roboquant_header.png[roboquant Logo, align="center", link="https://roboquant.org"]
+
+_Roboquant_ is an algorithmic trading platform that is very fast and flexible while at the same time strives to be easy to use. It is fully open source, written in Kotlin, and can be used in Jupyter Notebooks as well as standalone applications.
+
+It is designed to be used by anyone serious about algo trading, from beginning retail traders to established trading firms. You can find out more at *https://roboquant.org[roboquant.org]*.
+
